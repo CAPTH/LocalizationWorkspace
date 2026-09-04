@@ -226,9 +226,9 @@ A：可以免费分享给个人使用，但**禁止修改、反编译、二次�
 
 ## 联系方式
 
-- 项目主页：[待补充]
-- 问题反馈：[待补充]
-- 邮箱：[待补充]
+- 项目主页：https://github.com/CAPTH/LocalizationWorkspace
+- 问题反馈：2350529479@qq.com
+- 邮箱：2350529479@qq.com
 
 > 遇到问题时，请先查看本指南的「常见问题」部分。如果仍无法解决，请附上日志文件（`%APPDATA%/LocalizationWorkspace/logs/`）联系技术支持。
 
