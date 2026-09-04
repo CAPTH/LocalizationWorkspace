@@ -103,7 +103,7 @@
 
 如对本协议有任何疑问，请通过以下方式联系授权方：
 
-- 项目主页：[待补充]
+- 项目主页：https://github.com/CAPTH/LocalizationWorkspace
 - 联系邮箱：2350529479@qq.com
 
 ---
